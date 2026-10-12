@@ -1,6 +1,6 @@
 # Awesome-Multi-Factor-Authentication-MFA
 
-# Top Multi-Factor Authentication (MFA) Tools Ecosystem
+## Top Multi-Factor Authentication (MFA) Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Adaptive Authentication, Token Verification & Passwordless Identity Assurance*  
