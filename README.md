@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication-MFA/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Factor-Authentication-MFA?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication-MFA/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Factor-Authentication-MFA?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication-MFA/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Factor-Authentication-MFA?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication-MFA/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,7 +64,7 @@ The following table benchmarks category-defining SaaS and commercial MFA provide
 
 Open-source authentication servers, self-hosted IAM platforms, and client-side authenticator apps, **sorted by GitHub stargazers count (descending)**.
 
-| 💻 Repository | ⭐ GitHub Stars | 📜 License | 🔍 Primary Architecture & MFA Highlights |
+| 💻 Repository | ⭐ GitHub_Stars | 📜 License | 🔍 Primary Architecture & MFA Highlights |
 | :--- | :--- | :--- | :--- |
 | **[Keycloak](https://github.com/keycloak/keycloak)** | [<img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white" alt="Keycloak Stars"/>](https://github.com/keycloak/keycloak/stargazers) | `Apache-2.0` | Enterprise IAM and SSO server with full support for TOTP, WebAuthn/FIDO2 hardware keys, and backup recovery codes. |
 | **[Authelia](https://github.com/authelia/authelia)** | [<img src="https://img.shields.io/github/stars/authelia/authelia?style=social&color=white" alt="Authelia Stars"/>](https://github.com/authelia/authelia/stargazers) | `Apache-2.0` | Lightweight authentication and multi-factor authorization companion for reverse proxies (Nginx, Traefik, Caddy) featuring TOTP, WebAuthn, and Duo push. |
