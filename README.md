@@ -160,6 +160,22 @@ For developers embedding MFA directly into application backends without external
 
 ---
 
+## 💖 Support & Community
+
+If you found this curated multi-factor authentication list helpful:
+- ⭐ **Star this repository** to support ongoing maintenance and discoverability!
+- 🍴 **Fork it** and contribute your favorite MFA integrations and authentication projects.
+- 📢 **Share it** with fellow identity engineers, security analysts, and developers.
+- ☕ **Buy a coffee / Sponsor**: Support the maintainer via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Multi-Factor-Authentication-MFA&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Multi-Factor-Authentication-MFA&type=date&legend=top-left)
+
+---
+
 ## ⚖️ Disclaimer
 
 - This repository is a **community-curated index** and does not constitute commercial endorsement or security audit certification.
@@ -171,3 +187,4 @@ For developers embedding MFA directly into application backends without external
 <p align="center">
   <sub>Maintained with 🛡️ for security engineers, zero-trust architects, and open-source developers worldwide.</sub>
 </p>
+
